@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LigandA
+  - instrucText
+  - NextLevBut
+  - Panel
+  - PlayerLight
+  - AACounter
+  - ProteinBuildArea
+  - ProteinBuild
+  - BuilderAminoAcid
+  - BuildButtonTag
+  - HUD
+  - LevelAminoAcids
+  - AminosYellow
+  - AminosBlue
+  - AminosPink
+  - lockIcon
+  - yellow
+  - blue
+  - pink
+  - green
+  - red
+  - BuildTemplateButton
+  - Canvas
+  - ReqsYellow
+  - ReqsBlue
+  - ReqsPink
+  - ReqsGreen
+  - ReqsRed
+  - SelectButtonTag
+  - SelectController
+  - UpgradeText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SLayer
+    uniqueID: 1087352797
+    locked: 0
